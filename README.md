@@ -1,0 +1,2 @@
+# AndroidStudio_Kotlin_Affirmations
+practice for recyclerView
